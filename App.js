@@ -17,10 +17,6 @@ function App () {
         },
     ];
 
-    
-    
-    
-    
     const [todos, setTodos] = useState(initialTodos);
 
     function deleteTodo(id) {
