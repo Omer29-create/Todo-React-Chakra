@@ -16,9 +16,6 @@ import { Heading } from '@chakra-ui/react';
 
 
 
-
-
-
 import TodoList from './components/TodoList';
 import AddTodo from './components/AddTodo';
 import { VStack, IconButton } from '@chakra-ui/react';
